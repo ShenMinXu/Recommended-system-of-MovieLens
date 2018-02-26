@@ -4,3 +4,4 @@ Note： Some libraries are not supported yet in python3
 The projects include systems as below:     
 
 Collaborative Filtering.ipynb 基于协同过滤的推荐  
+Graph-Random Walk.ipynb 基于图的随机游走（py2）
